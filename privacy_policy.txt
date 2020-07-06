@@ -1,9 +1,6 @@
 PRIVACY POLICY
 
-In order to operate, this app would receive and keep locally the information about calendar events fired by the Android Calendar
-
-Any details are stored completely within the app and deleted forever once app is uninstalled
-
-This app does not transmit or share any of your personal data to/with anyone
-
-If you create a new calendar event using this app or update the existing one, event would be synced by your device according to your device sync settings
+In order to operate, this app would keep locally the information about fired calendar event notifications (current and past for a number of days).
+Any details are stored completely within the app and deleted forever once app is uninstalled.
+This app does not transmit or share any of your personal data to/with anyone.
+Android logs might contain information about events - be mindful sharing these logs with anyone. 
